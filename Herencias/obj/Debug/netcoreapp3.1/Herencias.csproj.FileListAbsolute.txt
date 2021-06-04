@@ -1,0 +1,9 @@
+C:\Users\LaFamily\source\repos\EmpresasCorporativas\Herencias\bin\Debug\netcoreapp3.1\Herencias.deps.json
+C:\Users\LaFamily\source\repos\EmpresasCorporativas\Herencias\bin\Debug\netcoreapp3.1\Herencias.dll
+C:\Users\LaFamily\source\repos\EmpresasCorporativas\Herencias\bin\Debug\netcoreapp3.1\Herencias.pdb
+C:\Users\LaFamily\source\repos\EmpresasCorporativas\Herencias\obj\Debug\netcoreapp3.1\Herencias.csprojAssemblyReference.cache
+C:\Users\LaFamily\source\repos\EmpresasCorporativas\Herencias\obj\Debug\netcoreapp3.1\Herencias.AssemblyInfoInputs.cache
+C:\Users\LaFamily\source\repos\EmpresasCorporativas\Herencias\obj\Debug\netcoreapp3.1\Herencias.AssemblyInfo.cs
+C:\Users\LaFamily\source\repos\EmpresasCorporativas\Herencias\obj\Debug\netcoreapp3.1\Herencias.csproj.CoreCompileInputs.cache
+C:\Users\LaFamily\source\repos\EmpresasCorporativas\Herencias\obj\Debug\netcoreapp3.1\Herencias.dll
+C:\Users\LaFamily\source\repos\EmpresasCorporativas\Herencias\obj\Debug\netcoreapp3.1\Herencias.pdb

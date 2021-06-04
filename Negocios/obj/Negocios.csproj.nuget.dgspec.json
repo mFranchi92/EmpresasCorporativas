@@ -1,0 +1,331 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\LaFamily\\source\\repos\\EmpresasCorporativas\\Negocios\\Negocios.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\LaFamily\\source\\repos\\EmpresasCorporativas\\Datos\\Datos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\LaFamily\\source\\repos\\EmpresasCorporativas\\Datos\\Datos.csproj",
+        "projectName": "Datos",
+        "projectPath": "C:\\Users\\LaFamily\\source\\repos\\EmpresasCorporativas\\Datos\\Datos.csproj",
+        "packagesPath": "C:\\Users\\LaFamily\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LaFamily\\source\\repos\\EmpresasCorporativas\\Datos\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\LaFamily\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\LaFamily\\source\\repos\\EmpresasCorporativas\\Entidades\\Entidades.csproj": {
+                "projectPath": "C:\\Users\\LaFamily\\source\\repos\\EmpresasCorporativas\\Entidades\\Entidades.csproj"
+              },
+              "C:\\Users\\LaFamily\\source\\repos\\EmpresasCorporativas\\Herencias\\Herencias.csproj": {
+                "projectPath": "C:\\Users\\LaFamily\\source\\repos\\EmpresasCorporativas\\Herencias\\Herencias.csproj"
+              },
+              "C:\\Users\\LaFamily\\source\\repos\\EmpresasCorporativas\\Interfaces\\Interfaces.csproj": {
+                "projectPath": "C:\\Users\\LaFamily\\source\\repos\\EmpresasCorporativas\\Interfaces\\Interfaces.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\LaFamily\\source\\repos\\EmpresasCorporativas\\Entidades\\Entidades.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\LaFamily\\source\\repos\\EmpresasCorporativas\\Entidades\\Entidades.csproj",
+        "projectName": "Entidades",
+        "projectPath": "C:\\Users\\LaFamily\\source\\repos\\EmpresasCorporativas\\Entidades\\Entidades.csproj",
+        "packagesPath": "C:\\Users\\LaFamily\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LaFamily\\source\\repos\\EmpresasCorporativas\\Entidades\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\LaFamily\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\LaFamily\\source\\repos\\EmpresasCorporativas\\Herencias\\Herencias.csproj": {
+                "projectPath": "C:\\Users\\LaFamily\\source\\repos\\EmpresasCorporativas\\Herencias\\Herencias.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\LaFamily\\source\\repos\\EmpresasCorporativas\\Herencias\\Herencias.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\LaFamily\\source\\repos\\EmpresasCorporativas\\Herencias\\Herencias.csproj",
+        "projectName": "Herencias",
+        "projectPath": "C:\\Users\\LaFamily\\source\\repos\\EmpresasCorporativas\\Herencias\\Herencias.csproj",
+        "packagesPath": "C:\\Users\\LaFamily\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LaFamily\\source\\repos\\EmpresasCorporativas\\Herencias\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\LaFamily\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\LaFamily\\source\\repos\\EmpresasCorporativas\\Interfaces\\Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\LaFamily\\source\\repos\\EmpresasCorporativas\\Interfaces\\Interfaces.csproj",
+        "projectName": "Interfaces",
+        "projectPath": "C:\\Users\\LaFamily\\source\\repos\\EmpresasCorporativas\\Interfaces\\Interfaces.csproj",
+        "packagesPath": "C:\\Users\\LaFamily\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LaFamily\\source\\repos\\EmpresasCorporativas\\Interfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\LaFamily\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\LaFamily\\source\\repos\\EmpresasCorporativas\\Negocios\\Negocios.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\LaFamily\\source\\repos\\EmpresasCorporativas\\Negocios\\Negocios.csproj",
+        "projectName": "Negocios",
+        "projectPath": "C:\\Users\\LaFamily\\source\\repos\\EmpresasCorporativas\\Negocios\\Negocios.csproj",
+        "packagesPath": "C:\\Users\\LaFamily\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LaFamily\\source\\repos\\EmpresasCorporativas\\Negocios\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\LaFamily\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\LaFamily\\source\\repos\\EmpresasCorporativas\\Datos\\Datos.csproj": {
+                "projectPath": "C:\\Users\\LaFamily\\source\\repos\\EmpresasCorporativas\\Datos\\Datos.csproj"
+              },
+              "C:\\Users\\LaFamily\\source\\repos\\EmpresasCorporativas\\Entidades\\Entidades.csproj": {
+                "projectPath": "C:\\Users\\LaFamily\\source\\repos\\EmpresasCorporativas\\Entidades\\Entidades.csproj"
+              },
+              "C:\\Users\\LaFamily\\source\\repos\\EmpresasCorporativas\\Herencias\\Herencias.csproj": {
+                "projectPath": "C:\\Users\\LaFamily\\source\\repos\\EmpresasCorporativas\\Herencias\\Herencias.csproj"
+              },
+              "C:\\Users\\LaFamily\\source\\repos\\EmpresasCorporativas\\Interfaces\\Interfaces.csproj": {
+                "projectPath": "C:\\Users\\LaFamily\\source\\repos\\EmpresasCorporativas\\Interfaces\\Interfaces.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

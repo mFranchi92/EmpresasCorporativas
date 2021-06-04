@@ -1,0 +1,12 @@
+C:\Users\LaFamily\source\repos\EmpresasCorporativas\Entidades\bin\Debug\netcoreapp3.1\Entidades.deps.json
+C:\Users\LaFamily\source\repos\EmpresasCorporativas\Entidades\bin\Debug\netcoreapp3.1\Entidades.dll
+C:\Users\LaFamily\source\repos\EmpresasCorporativas\Entidades\bin\Debug\netcoreapp3.1\Entidades.pdb
+C:\Users\LaFamily\source\repos\EmpresasCorporativas\Entidades\bin\Debug\netcoreapp3.1\Herencias.dll
+C:\Users\LaFamily\source\repos\EmpresasCorporativas\Entidades\bin\Debug\netcoreapp3.1\Herencias.pdb
+C:\Users\LaFamily\source\repos\EmpresasCorporativas\Entidades\obj\Debug\netcoreapp3.1\Entidades.csprojAssemblyReference.cache
+C:\Users\LaFamily\source\repos\EmpresasCorporativas\Entidades\obj\Debug\netcoreapp3.1\Entidades.AssemblyInfoInputs.cache
+C:\Users\LaFamily\source\repos\EmpresasCorporativas\Entidades\obj\Debug\netcoreapp3.1\Entidades.AssemblyInfo.cs
+C:\Users\LaFamily\source\repos\EmpresasCorporativas\Entidades\obj\Debug\netcoreapp3.1\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\LaFamily\source\repos\EmpresasCorporativas\Entidades\obj\Debug\netcoreapp3.1\Entidades.csproj.CopyComplete
+C:\Users\LaFamily\source\repos\EmpresasCorporativas\Entidades\obj\Debug\netcoreapp3.1\Entidades.dll
+C:\Users\LaFamily\source\repos\EmpresasCorporativas\Entidades\obj\Debug\netcoreapp3.1\Entidades.pdb

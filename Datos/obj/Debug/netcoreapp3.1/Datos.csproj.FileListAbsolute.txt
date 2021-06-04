@@ -1,0 +1,16 @@
+C:\Users\LaFamily\source\repos\EmpresasCorporativas\Datos\bin\Debug\netcoreapp3.1\Herencias.dll
+C:\Users\LaFamily\source\repos\EmpresasCorporativas\Datos\bin\Debug\netcoreapp3.1\Interfaces.dll
+C:\Users\LaFamily\source\repos\EmpresasCorporativas\Datos\obj\Debug\netcoreapp3.1\Datos.csprojAssemblyReference.cache
+C:\Users\LaFamily\source\repos\EmpresasCorporativas\Datos\obj\Debug\netcoreapp3.1\Datos.AssemblyInfoInputs.cache
+C:\Users\LaFamily\source\repos\EmpresasCorporativas\Datos\obj\Debug\netcoreapp3.1\Datos.AssemblyInfo.cs
+C:\Users\LaFamily\source\repos\EmpresasCorporativas\Datos\bin\Debug\netcoreapp3.1\Datos.deps.json
+C:\Users\LaFamily\source\repos\EmpresasCorporativas\Datos\bin\Debug\netcoreapp3.1\Datos.dll
+C:\Users\LaFamily\source\repos\EmpresasCorporativas\Datos\bin\Debug\netcoreapp3.1\Datos.pdb
+C:\Users\LaFamily\source\repos\EmpresasCorporativas\Datos\bin\Debug\netcoreapp3.1\Entidades.dll
+C:\Users\LaFamily\source\repos\EmpresasCorporativas\Datos\bin\Debug\netcoreapp3.1\Entidades.pdb
+C:\Users\LaFamily\source\repos\EmpresasCorporativas\Datos\bin\Debug\netcoreapp3.1\Herencias.pdb
+C:\Users\LaFamily\source\repos\EmpresasCorporativas\Datos\bin\Debug\netcoreapp3.1\Interfaces.pdb
+C:\Users\LaFamily\source\repos\EmpresasCorporativas\Datos\obj\Debug\netcoreapp3.1\Datos.csproj.CoreCompileInputs.cache
+C:\Users\LaFamily\source\repos\EmpresasCorporativas\Datos\obj\Debug\netcoreapp3.1\Datos.csproj.CopyComplete
+C:\Users\LaFamily\source\repos\EmpresasCorporativas\Datos\obj\Debug\netcoreapp3.1\Datos.dll
+C:\Users\LaFamily\source\repos\EmpresasCorporativas\Datos\obj\Debug\netcoreapp3.1\Datos.pdb
